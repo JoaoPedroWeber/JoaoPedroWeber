@@ -14,7 +14,7 @@ I'm always looking to learn more and grow as a developer, with a focus on writin
 
 ### 🤖 Languages & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,git,py,java,Mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,git,py,java,mysql)](https://skillicons.dev)
 
 
 ### 📝 Contact & Info
